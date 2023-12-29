@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "September 2021 Art Challenge"
-date:   2021-09-30 22:57:04 -0700
+date:   2021-09-30 00:00:00 -0800
 categories: arts and crafts
 ---
 

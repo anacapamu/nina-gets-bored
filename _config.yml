@@ -23,7 +23,7 @@ email: ninagetsbored@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nina Gets Bored is a haven where curiosity becomes art and craft.
   Dive into Nina's world of hands-on creativity.
-  Because when Nina gets bored, magic happens
+  Because when Nina gets bored, magic happens.
 baseurl: "/nina-gets-bored" # the subpath of your site, e.g. /blog
 url: "https://anacapamu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

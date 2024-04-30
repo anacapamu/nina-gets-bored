@@ -2,7 +2,7 @@
 layout: post
 title:  "Jecka - Giraffe 01S"
 date:   2021-10-24 00:00:00 -0800
-categories: building bricks
+categories: buildingbricks
 ---
 
 ![](https://i.imgur.com/SNP3UI2.jpg)

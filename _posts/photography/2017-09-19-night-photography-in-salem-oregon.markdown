@@ -15,7 +15,10 @@ I did not edit the photos much since I know they are crappy anyways. I did chang
 
 I do not see stars often since I live in the city, but once I get my tripod, I will try to venture outside of the city and see what I can capture.
 
-![](https://i.imgur.com/plF0V3u.jpg)
-![](https://i.imgur.com/QZLmoRQ.jpg)
-![](https://i.imgur.com/6f82rty.jpg)
-![](https://i.imgur.com/3egfaGS.jpg)
+![two tree tops and stars](https://i.imgur.com/plF0V3u.jpg)
+
+![trees and milky way](https://i.imgur.com/QZLmoRQ.jpg)
+
+![milky way with a tree top to the left bottom](https://i.imgur.com/6f82rty.jpg)
+
+![milky way with tree tops in the bottom](https://i.imgur.com/3egfaGS.jpg)

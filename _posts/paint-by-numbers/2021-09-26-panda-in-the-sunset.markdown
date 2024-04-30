@@ -2,7 +2,7 @@
 layout: post
 title:  "Panda in the Sunset"
 date:   2021-09-26 00:00:00 -0800
-categories: arts and crafts
+categories: artsandcrafts
 ---
 
 ![Image](https://i.imgur.com/bgQAwf4.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Daiso Petit Block - Friends of Dogs & Cats #2 "Bulldog"
+title:  "Daiso Petit Block - Friends of Dogs & Cats #2 (Bulldog)"
 date:   2020-02-11 00:00:00 -0800
-categories: building bricks
+categories: buildingbricks
 ---
 
 ![completed bulldog bricks](https://i.imgur.com/rah7any.jpg)

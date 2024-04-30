@@ -2,7 +2,7 @@
 layout: post
 title:  "September 2021 Art Challenge"
 date:   2021-09-30 00:00:00 -0800
-categories: arts and crafts
+categories: artsandcrafts
 ---
 
 ![Image](https://i.imgur.com/Z4vYxEm.png)
